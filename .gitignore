@@ -16,5 +16,4 @@ Library/
 
 xcuserdata
 *.pbxuser
-libiPhone-lib.a
-
+v/Libraries/libiPhone-lib.a
